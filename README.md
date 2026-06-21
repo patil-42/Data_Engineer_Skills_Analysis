@@ -1,3 +1,4 @@
+
 # 📊 Data Engineer Skills Analysis Using SQL
 
 ## 📌 Project Overview
@@ -24,7 +25,7 @@ The warehouse follows a **star schema design**, consisting of:
 
 Using SQL joins across these tables, I was able to analyze skill demand, salary trends, and identify the most valuable skills for Data Engineers.
 
-![alt text](data_jobs_database.png)
+<img width="1536" height="1024" alt="data_jobs_database" src="https://github.com/user-attachments/assets/b3de71dd-5519-4d52-9cda-0489250af6b3" />
 
 
 
